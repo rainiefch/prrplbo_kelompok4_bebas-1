@@ -7,4 +7,3 @@
 |19 	|71231002 	|Philip Deric Kho 
 |36 	|71231058 	|Michael Chandra Mahanaim 
 |37 	|71231061 	|Syendhi Reswara. S 
-|--------------|-----|-------|
